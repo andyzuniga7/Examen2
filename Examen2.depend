@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1427338473 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Evaluador.cpp
+	"Evaluador.h"
+
+1427337245 /home/turupawn/Projects/Clases/OrgaTarea1-master/Evaluador.h
+	"Planeta.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1427245617 /home/turupawn/Projects/Clases/OrgaTarea1-master/Planeta.h
+	<string>
+	<iostream>
+
+1427324401 /home/turupawn/Projects/Clases/OrgaTarea1-master/NodoBinario.h
+	<iostream>
+
+1427245080 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Libro.cpp
+	"Libro.h"
+
+1427245309 /home/turupawn/Projects/Clases/OrgaTarea1-master/Libro.h
+	<string>
+	<iostream>
+
+1427324359 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1427245654 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/Planeta.cpp
+	"Planeta.h"
+
+1427338530 source:/home/turupawn/Projects/Clases/OrgaTarea1-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Planeta.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1434956965 source:/home/turupawn/Downloads/2015Examen2-master/Evaluador.cpp
+	"Evaluador.h"
+
+1434956415 /home/turupawn/Downloads/2015Examen2-master/Evaluador.h
+	"Celular.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1427390653 /home/turupawn/Downloads/2015Examen2-master/Planeta.h
+	<string>
+	<iostream>
+
+1434955006 /home/turupawn/Downloads/2015Examen2-master/NodoBinario.h
+	<iostream>
+
+1434955006 source:/home/turupawn/Downloads/2015Examen2-master/NodoBinario.cpp
+	"NodoBinario.h"
+
+1427390653 source:/home/turupawn/Downloads/2015Examen2-master/Planeta.cpp
+	"Planeta.h"
+
+1434993884 source:/home/turupawn/Downloads/2015Examen2-master/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Celular.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1434951774 source:/home/turupawn/Downloads/2015Examen2-master/Celular.cpp
+	"Celular.h"
+
+1434951898 /home/turupawn/Downloads/2015Examen2-master/Celular.h
+	<iostream>
+
+1434951774 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/Celular.cpp
+	"Celular.h"
+
+1434951898 /home/turupawn/Clases/Progra3/Examen2Tiburon/Celular.h
+	<iostream>
+
+1434994643 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/Evaluador.cpp
+	"Evaluador.h"
+
+1434956415 /home/turupawn/Clases/Progra3/Examen2Tiburon/Evaluador.h
+	"Celular.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1434955006 /home/turupawn/Clases/Progra3/Examen2Tiburon/NodoBinario.h
+	<iostream>
+
+1434955006 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/NodoBinario.cpp
+	"NodoBinario.h"
+
+1435009806 source:/home/turupawn/Clases/Progra3/Examen2Tiburon/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Celular.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1434951774 source:/home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Celular.cpp
+	"Celular.h"
+
+1434951898 /home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Celular.h
+	<iostream>
+
+1435392615 source:/home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Evaluador.cpp
+	"Evaluador.h"
+
+1435392561 /home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Evaluador.h
+	"Contacto.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1434955006 /home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/NodoBinario.h
+	<iostream>
+
+1434955006 source:/home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/NodoBinario.cpp
+	"NodoBinario.h"
+
+1435385844 source:/home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Contacto.cpp
+	"Contacto.h"
+
+1435385819 /home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/Contacto.h
+	<iostream>
+
+1435393901 source:/home/turupawn/Clases/Progra3Ceutec/Examen2Tiburon/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Contacto.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
+1435426134 source:c:\users\a\documents\progra3\progra3examen2tiburon-master\contacto.cpp
+	"Contacto.h"
+
+1435426134 c:\users\a\documents\progra3\progra3examen2tiburon-master\contacto.h
+	<iostream>
+
+1435426134 source:c:\users\a\documents\progra3\progra3examen2tiburon-master\evaluador.cpp
+	"Evaluador.h"
+
+1435426134 c:\users\a\documents\progra3\progra3examen2tiburon-master\evaluador.h
+	"Contacto.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1435426134 c:\users\a\documents\progra3\progra3examen2tiburon-master\nodobinario.h
+	<iostream>
+
+1435426134 source:c:\users\a\documents\progra3\progra3examen2tiburon-master\nodobinario.cpp
+	"NodoBinario.h"
+
+1435438596 source:c:\users\a\documents\progra3\progra3examen2tiburon-master\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Contacto.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
